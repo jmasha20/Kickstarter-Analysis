@@ -12,6 +12,7 @@ The purpose of this data analysis was performed on just over several thousand cr
 ![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 While the uncovered trends show outcomes of just over 1,300 theater projects, this data is challenged by both a small dataset and the unknown types of plays to show a clearer picture. Since we don’t know what is reasonable to obtain, what we can see from the data provided, the month of May would be the best for a successful theater campaign. 
