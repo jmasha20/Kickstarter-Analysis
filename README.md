@@ -17,7 +17,7 @@ The purpose of this data analysis was performed on just over several thousand cr
 ![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-While the uncovered trends show outcomes of just over 1,300 theater projects, this data is challenged by both a small dataset and the unknown types of plays to show a clearer picture. Since we don’t know what is reasonable to obtain, what we can see from the data provided, the month of May would be the best for a successful theater campaign. 
+While the uncovered trends represent outcomes of just over 1,300 theater projects, this data is challenged by both a small dataset and the unknown types of plays to show a clearer picture. Since we don’t know what is reasonable to obtain, what we can see from the data provided, the month of May would be the best for a successful theater campaign. 
 
 ## Results
 Upon further analysis, the most campaigns funded at or above 100% were hosted during the months of May and June whereas October shows the most failed campaigns. Outcomes based on goal shows, the highest percentage of success is at a range greater than or equal to $45,000 and less than or equal to $49,999. 
