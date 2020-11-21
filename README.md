@@ -22,4 +22,4 @@ While the uncovered trends show outcomes of just over 1,300 theater projects, th
 ## Results
 Upon further analysis, the most campaigns funded at or above 100% were hosted during the months of May and June whereas October shows the most failed campaigns. Outcomes based on goal shows, the highest percentage of success is at a range greater than or equal to $45,000 and less than or equal to $49,999. 
 
-We can assume, the more data to measure, could give us a full picture to learn the scope of theater funded campaigns on Kickstarter. The theater outcomes based on launch date and goals suggest recommendations for future inquiry with a larger data set, type of theater, and type of play.  
+We can assume, a larger dataset could give a greater picture to learn the full scope of theater funded campaigns on Kickstarter. The theater outcomes based on launch date and goals suggest recommendations for future inquiry with a larger data set, type of theater, and type of play.  
