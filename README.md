@@ -1,7 +1,7 @@
 # Kickstarter-Analysis
 
 ## Overview of Project
-Kickstarter is a global crowdfunding platform focused on creativity. It exists to help bring creative projects to life. A home for film, music, art, theater, games, comics, design, and photography. Louise, a playwright, Kickstarter campaign for her play “Fever” came close to its fundraising goal in a short amount of time. This analysis will show how different theater campaigns fared in relation to their launch dates and their funding goals. 
+Kickstarter is a global crowdfunding platform focused on creativity. It exists to help bring creative projects to life. A home for film, music, art, theater, games, comics, design, and photography. This analysis will show how different theater campaigns fared in relation to their launch dates and their funding goals. 
 
 ### Purpose
 The purpose of this data analysis was performed on just over several thousand crowdfunding projects to uncover campaign trends as shown in Chart.1: Theater Outcomes Based on Launch Date and Chart.2: Outcomes Based on Goal. 
